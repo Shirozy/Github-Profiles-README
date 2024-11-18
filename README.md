@@ -56,3 +56,14 @@ Here are some common sections found in standout GitHub profiles that you can use
   <p><strong>Profile:</strong> <a href="https://github.com/Dynamic155" target="_blank">HerXayah's Profile</a></p>
   <p><img src="https://github.com/user-attachments/assets/0ca2e9ac-2d99-425d-985a-335bda1aaad9" alt="HerXayah's Profile Image"></p>
 </details>
+
+# Minimal
+<details>
+  <summary>
+    <img src="pfpLink" alt="caneco's Profile" width="50">
+    <h1 align="right">&nbsp;&nbsp;>&nbsp;&nbsp;caneco's Profile</h1>
+  </summary>
+  <p><strong>Description:</strong> Full-stack dev by day, Laravel contributor by night. </p>
+  <p><strong>Profile:</strong> <a href="https://github.com/caneco" target="_blank">caneco's Profile</a></p>
+  <p><img src="pfpLink" alt="caneco's Profile Image"></p>
+</details>
